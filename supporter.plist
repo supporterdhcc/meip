@@ -24,7 +24,7 @@
           </array>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-          <string>https://github.com/supporterdhcc/meip/blob/master/supporter.ipa</string>
+          <string>https://raw.githubusercontent.com/supporterdhcc/meip/master/supporter.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -34,7 +34,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>https://github.com/supporterdhcc/meip/blob/master/logo.57_57.png</string>
+         <string>https://raw.githubusercontent.com/supporterdhcc/meip/master/logo.57_57.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -45,7 +45,7 @@
          <string>61fa64bb7a7cae5a46bfb45821ac8bba</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://github.com/supporterdhcc/meip/blob/master/logo.512_512.png</string>
+         <key>url</key><string>https://raw.githubusercontent.com/supporterdhcc/meip/master/logo.512_512.png</string>
         </dict>
       </array>
 <key>metadata</key>
